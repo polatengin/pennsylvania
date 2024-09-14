@@ -17,3 +17,6 @@ watchman version
 echo -e "\n*******************************"
 echo -e "\nDev container ready!".
 echo -e "\n*******************************\n"
+
+echo "export ANDROID_HOME=\"/usr/lib/android-sdk\"" >> ~/.bashrc
+echo "export ANDROID_HOME=\"/usr/lib/android-sdk\"" >> ~/.zshrc
