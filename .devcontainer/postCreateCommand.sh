@@ -9,6 +9,7 @@ echo -e "\nInstalling watchman...\n"
 
 sudo apt update
 sudo apt install watchman -y
+sudo apt install default-jdk -y
 watchman version
 
 echo -e "\n*******************************"
