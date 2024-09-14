@@ -5,6 +5,7 @@
     8081
   ],
   "initializeCommand": "bash .devcontainer/initializeCommand.sh",
+  "postCreateCommand": "bash .devcontainer/postCreateCommand.sh",
   // "customizations": {},
   // "features": {},
   "runArgs": [
