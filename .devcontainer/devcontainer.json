@@ -4,6 +4,7 @@
   "forwardPorts": [
     8081
   ],
+  "initializeCommand": "bash .devcontainer/initializeCommand.sh",
   // "customizations": {},
   // "features": {},
   "runArgs": [
